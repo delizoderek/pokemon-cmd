@@ -1,0 +1,34 @@
+{
+  "name": "pokemon-cmd",
+  "version": "1.0.0",
+  "description": "A text-based pokemon game, where you can battle your way through the CMD tournament and earn the terminal badge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delizoderek/pokemon-cmd.git"
+  },
+  "keywords": [
+    "pokemon",
+    "poke",
+    "pokeapi",
+    "text-based",
+    "text-based",
+    "pokemon",
+    "pokemon",
+    "tournament"
+  ],
+  "author": "delizoderek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delizoderek/pokemon-cmd/issues"
+  },
+  "homepage": "https://github.com/delizoderek/pokemon-cmd#readme",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^8.1.2"
+  }
+}
